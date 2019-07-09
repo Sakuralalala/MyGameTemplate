@@ -67,6 +67,9 @@
     <Compile Include="Assets\Scripts\New System\TestSystemSetting.cs" />
     <Compile Include="Assets\Scripts\New System\TheMatrix.cs" />
     <Compile Include="Assets\Scripts\New System\TheMatrixAgent.cs" />
+    <Compile Include="Assets\Scripts\UI\BaseUIForm.cs" />
+    <Compile Include="Assets\Scripts\UI\UIManager.cs" />
+    <Compile Include="Assets\Scripts\UI\UIType.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/sunjiahong/MyGameTemplate/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

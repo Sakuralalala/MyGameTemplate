@@ -12,7 +12,7 @@ namespace GameSystem
         private static Stack<string> sceneStack = new Stack<string>();
         //异步加载场景
         private static AsyncOperation Async;
-
+        
         /// <summary>
         /// 加载进度事件
         /// </summary>
